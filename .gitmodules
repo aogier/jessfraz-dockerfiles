@@ -1,0 +1,4 @@
+[submodule "tor-proxy/hooks"]
+	path = tor-proxy/hooks
+	url = git@github.com:aogier/dockerfiles.git
+	branch = hooks
